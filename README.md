@@ -1,0 +1,1 @@
+Projeto que simula uma lista de viagem, permitindo ao usuário adicionar, editar e excluir objetos e suas quantidades. Nesse projeto foi desenvolvida a habilidade de utilzar o Local Storage, fazendo com que, mesmo após fechar ou atualizar o site, os dados não sejam perdidos e o site não seja reiniciado.
